@@ -1,0 +1,19 @@
+.servMenu {
+    width: 1200px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.servMenu .servLink {
+    font-size: 16px;
+    text-decoration: none;
+    background: #f9f9f9;
+    padding: 12px;
+    color: #6e6e6e;
+}
+
+.servMenu .vertLine {
+    border: 1px solid rgb(189 189 189);
+    height: 48px;
+}

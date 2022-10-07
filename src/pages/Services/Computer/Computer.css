@@ -1,0 +1,7 @@
+.nameTable, .prodTable {
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+}

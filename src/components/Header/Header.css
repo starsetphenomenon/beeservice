@@ -1,0 +1,78 @@
+.header {
+    width: 100%;
+    height: auto;
+    background: #172130;
+    padding: 25px 0;
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+.header .header__box {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header .header__box .picText {
+    display: flex;
+}
+
+.header .header__box .box__one {
+    width: 30%;
+}
+
+.header .header__box .box__two {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    align-items: flex-start;
+    color: white;
+}
+
+.header .header__box .box__three {
+    width: 23%;
+}
+
+.header .header__box .box__two .address__div {
+    display: flex;
+    flex-direction: column;
+}
+
+.header .header__box .box__two .address__div .picText .faLocation, .header .header__box .box__two .schedule__div .picText .faCalendar, .header .header__box .box__three .picText .faPhone {
+    margin: 0 10px 0 0;
+    font-size: 23px;
+    color: #ffb000;
+}
+
+.header .header__box .box__two .schedule__div {
+    display: flex;
+    flex-direction: column;
+}
+
+.header .header__box .box__two .address__div .box__address , .header .header__box .box__two .schedule__div .box__schedule {
+    padding: 0 0 0 30px;
+}
+
+.header .header__box .box__three .cont__div{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.header .header__box .picText p.name{
+    color: #ffb000;
+} 
+
+.header .header__box .box__three .box__contacts {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    color: white;
+} 
+
+
+
+
