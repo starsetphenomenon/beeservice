@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beeservice/static/css/main.4b979636.css",
+    "main.js": "/beeservice/static/js/main.c0e294ff.js",
+    "static/media/bgAbout.webp": "/beeservice/static/media/bgAbout.e793a15d9ec60bda9f35.webp",
+    "static/media/bgConts.webp": "/beeservice/static/media/bgConts.82ff5c1c0508a563cd3a.webp",
+    "index.html": "/beeservice/index.html",
+    "main.4b979636.css.map": "/beeservice/static/css/main.4b979636.css.map",
+    "main.c0e294ff.js.map": "/beeservice/static/js/main.c0e294ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b979636.css",
+    "static/js/main.c0e294ff.js"
+  ]
+}

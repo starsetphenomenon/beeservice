@@ -1,0 +1,122 @@
+[
+    {
+        "id_homeequip": "011",
+        "name_homeequip": "Діагностика з подальшим ремонтом",
+        "price_homeequip": "безкоштовно"
+    },
+    {
+        "id_homeequip": "012",
+        "name_homeequip": "Діагностика несправності. Без ремонту",
+        "price_homeequip": "300 грн."
+    },
+    {
+        "id_homeequip": "013",
+        "name_homeequip": "Чистка ігрових ноутбуків",
+        "price_homeequip": "від 550 грн."
+    },
+    {
+        "id_homeequip": "014",
+        "name_homeequip": "Чистка ноутбуків різних марок",
+        "price_homeequip": "від 450 грн."
+    },
+    {
+        "id_homeequip": "015",
+        "name_homeequip": "Заміна матриці ноутбука",
+        "price_homeequip": "від 1100 грн."
+    },
+    {
+        "id_homeequip": "016",
+        "name_homeequip": "Заміна клавіатури на ноутбуці",
+        "price_homeequip": "від від 450 грн."
+    },
+    {
+        "id_homeequip": "017",
+        "name_homeequip": "Діагностика/заміна/ремонт жорсткого диска(HDD, SSD)",
+        "price_homeequip": "уточнюйте у менеджера**"
+    },
+    {
+        "id_homeequip": "018",
+        "name_homeequip": "Заміна гнізда зарядки, навушників, USB у ноутбуці",
+        "price_homeequip": "від 550 грн."
+    },
+    {
+        "id_homeequip": "019",
+        "name_homeequip": "Чищення охолоджувальної системи із заміною термопасти, термопрокладок",
+        "price_homeequip": "450 грн."
+    },
+    {
+        "id_homeequip": "020",
+        "name_homeequip": "Заміна coolera (вентилятора)",
+        "price_homeequip": "від 550 грн."
+    },
+    {
+        "id_homeequip": "021",
+        "name_homeequip": "Заміна DVD приводу",
+        "price_homeequip": "від 100 грн."
+    },    
+    {
+        "id_homeequip": "022",
+        "name_homeequip": "Заміна батареї (акумулятора)",
+        "price_homeequip": "від 1200 грн."
+    },    
+    {
+        "id_homeequip": "023",
+        "name_homeequip": "Заміна відеокарти (відеоконтролера)",
+        "price_homeequip": "від 1500 грн."
+    },    
+    {
+        "id_homeequip": "024",
+        "name_homeequip": "Заміна контролера 'південний міст', 'північний міст', 'мультиконтролер'",
+        "price_homeequip": "від 1500 грн."
+    },    
+    {
+        "id_homeequip": "025",
+        "name_homeequip": "Ремонт корпусу, відновлення тріщин, зламаних кріплень",
+        "price_homeequip": "від 550 грн."
+    },    
+    {
+        "id_homeequip": "026",
+        "name_homeequip": "Ремонт материнської плати",
+        "price_homeequip": "від 750 грн."
+    },    
+    {
+        "id_homeequip": "027",
+        "name_homeequip": "Відновлення після потрапляння вологи",
+        "price_homeequip": "від 950 грн."
+    },    
+    {
+        "id_homeequip": "028",
+        "name_homeequip": "Ремонт блоку живлення",
+        "price_homeequip": "від 250 грн."
+    },    
+    {
+        "id_homeequip": "029",
+        "name_homeequip": "Лазерне гравіювання клавіатури",
+        "price_homeequip": "від 250 грн."
+    },    
+    {
+        "id_homeequip": "029",
+        "name_homeequip": "Лазерне гравіювання клавіатури",
+        "price_homeequip": "від 250 грн."
+    },     
+    {
+        "id_homeequip": "029",
+        "name_homeequip": "Лазерне гравіювання клавіатури",
+        "price_homeequip": "від 250 грн."
+    },     
+    {
+        "id_homeequip": "029",
+        "name_homeequip": "Лазерне гравіювання клавіатури",
+        "price_homeequip": "від 250 грн."
+    },     
+    {
+        "id_homeequip": "029",
+        "name_homeequip": "Лазерне гравіювання клавіатури",
+        "price_homeequip": "від 250 грн."
+    },     
+    {
+        "id_homeequip": "029",
+        "name_homeequip": "Лазерне гравіювання клавіатури",
+        "price_homeequip": "від 250 грн."
+    }
+]
